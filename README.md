@@ -127,17 +127,8 @@ Upload your textbooks, notes, and question papers. Chat with your content, gener
 - Node.js 18+
 - [Ollama](https://ollama.com/download)
 
-### Option 1: One-Click (Windows)
 
-```bash
-# First time only:
-setup.bat
-
-# Every time you want to use it:
-start.bat
-```
-
-### Option 2: Manual Setup
+### Manual Setup
 
 ```bash
 # 1. Start Ollama and pull models
