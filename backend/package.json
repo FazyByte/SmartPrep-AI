@@ -1,0 +1,9 @@
+{
+  "name": "smartprep-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "uvicorn app.main:app --reload --port 8000 --reload-dir app",
+    "start": "uvicorn app.main:app --port 8000",
+    "test": "pytest --tb=short -q"
+  }
+}

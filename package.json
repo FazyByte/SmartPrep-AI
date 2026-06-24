@@ -1,0 +1,13 @@
+{
+  "name": "smartprep-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-powered academic intelligence platform",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "install:backend": "cd backend && pip install -r requirements.txt",
+    "install:frontend": "cd frontend && npm install",
+    "test": "cd backend && pytest --tb=short -q"
+  }
+}

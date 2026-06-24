@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Data (user-generated, don't commit)
+backend/data/
+logs/
+uploads/
+chroma_store/
+*.db
+metadata.db
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test artifacts
+.hypothesis/
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Build
+smartprep_ai.egg-info/
+
+# Legacy root files (migrated to backend/)
+main.py
+verify_schema.py
+pyproject.toml
+src/
+tests/
+pages/
