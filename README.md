@@ -1,5 +1,11 @@
 # SmartPrep AI 🎓
-
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![Next.js](https://img.shields.io/badge/Next.js-Frontend-black)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-orange)
+![Llama](https://img.shields.io/badge/Llama-3.2-purple)
+![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 > An AI-powered academic intelligence platform that transforms your study materials into an interactive learning companion — powered entirely by local AI.
 
 Upload your textbooks, notes, and question papers. Chat with your content, generate smart notes, take quizzes, analyze exam patterns, and build study plans — all running locally on your machine with Llama 3.2.
